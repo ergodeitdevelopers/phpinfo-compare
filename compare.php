@@ -221,7 +221,7 @@ function arr_diff( $f1 , $f2 , $show_equal = 0 )
 			*/
 
 		} /*endif*/
-
+ 
 	}/*endwhile*/
 
 	return $out;
